@@ -1,0 +1,28 @@
+
+T
+java:S1135)"2Complete the task associated to this TODO comment.(ĞÄÜêıÿÿÿÿ8™Ë¿£Ù0
+b
+java:S46840"@Replace this persistent entity with a simple POJO or DTO object.(•ÁÃ«øÿÿÿÿ8›Ë¿£Ù0
+O
+java:S1135:"2Complete the task associated to this TODO comment.(¬´¬Õ8Ë¿£Ù0
+e
+java:S1128"HRemove this unused import 'org.springframework.context.annotation.Bean'.(‚î‰Ş8Ë¿£Ù0
+c
+java:S1128"ARemove this unused import 'org.springframework.http.HttpHeaders'.(ãŸñ×úÿÿÿÿ8Ë¿£Ù0
+a
+java:S1128	"?Remove this unused import 'org.springframework.http.MediaType'.(úŸİ¯şÿÿÿÿ8Ë¿£Ù0
+`
+java:S1128
+"CRemove this unused import 'org.springframework.http.RequestEntity'.(Ì…™Î8Ë¿£Ù0
+f
+java:S1128"IRemove this unused import 'org.springframework.util.LinkedMultiValueMap'.(µÂî‹8ŸË¿£Ù0
+e
+java:S1128"CRemove this unused import 'org.springframework.util.MultiValueMap'.(·ÚÀŞùÿÿÿÿ8ŸË¿£Ù0
+j
+java:S1128"HRemove this unused import 'org.springframework.web.client.RestTemplate'.(Îö¼Şûÿÿÿÿ8ŸË¿£Ù0
+W
+java:S1128"5Remove this unused import 'org.example.Entity.Token'.(’­»Æùÿÿÿÿ8ŸË¿£Ù0
+F
+java:S1128")Remove this unused import 'java.net.URI'.(Ö¦¨°8ŸË¿£Ù0
+J
+java:S1128"-Remove this unused import 'java.util.Base64'.(ëŠ»Õ8ŸË¿£Ù0

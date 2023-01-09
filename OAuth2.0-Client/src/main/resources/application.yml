@@ -1,0 +1,62 @@
+#Spring:
+#    redis:
+#        host: 127.0.0.1
+#        password: null
+#        port: 6379
+#        pool:
+#            max-idle: 100
+#            min-idle: 1
+#            max-active: 1000
+#            max-wait: -1
+#logging:
+#    path: ./logs/
+#    level:
+#        root: DEBUG
+
+
+#spring:
+#  datasource:
+#    driver-class-name: org.h2.Driver
+#    url: jdbc:h2:~/test
+#    username: sa
+#    password:
+#
+#  h2:
+#    console:
+#      enabled: true
+#      path: /h2
+#
+#  jpa:
+#    hibernate:
+#      ddl-auto: none
+
+#自定義的第三方外部認證
+#security:
+#  oauth2:
+#    # OAuth2 Client 配置，對應 OAuth2ClientProperties 類別
+#    # 外部認證的時候要登入的帳號密碼要輸入的是這邊的
+#    client:
+#      client-id: yuiweq
+#      client-secret: fstop2022
+##      client-id: systex
+##      client-secret: fstop2022
+#    # OAuth2 Resource 配置，對應 ResourceServerProperties 類別
+#    resource:
+#      token-info-uri: http://localhost:8080/oauth/check_token # 獲得 Token 信息的 URL
+#    # Jwt Token獲取 URL，自定義的
+#    access-token-uri: http://localhost:8080/oauth/token
+
+#spring:
+#  security:
+#    oauth2:
+#      resourceserver:
+#        jwt:
+#          issuer-uri: https://idp.example.com/issuer
+
+server:
+  port: 8082
+
+spring:
+  main:
+    allow-circular-references: true
+
